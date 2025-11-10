@@ -1,5 +1,0 @@
-sqlalchemy
-pandas
-DBAPI2
-SQLAlchemy
-pip install --upgrade pandas sqlalchemy
